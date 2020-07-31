@@ -1,2 +1,2 @@
 # Budget-App
-An app built using JavaScrpt
+An app built while learning vanilla JavaScript
